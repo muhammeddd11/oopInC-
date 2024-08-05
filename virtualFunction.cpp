@@ -11,6 +11,7 @@ public:
 
     }
 };
+// abstract class is the class that have atleast 1 abstruct method
 class gitar: public instruments{
 public:
     void makeSound(){
